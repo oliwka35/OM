@@ -93,6 +93,9 @@ h3{
   background-color: #EDEDED;
   padding: 10px;
 }
+.about-me p{
+  font-size: 13px;
+}
 .skills{
   margin-top: 10px;
   padding: 3px;
