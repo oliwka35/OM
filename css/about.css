@@ -12,13 +12,7 @@ body{
   width:100%;
   overflow-x: hidden;
 }
-canvas{
-  height: 100%;
-  position:absolute;
-  left:0;
-  top:0;
-  z-index:-1;
-}
+
 .menu{
   background-color: rgba(35,35,35, 0.9);
   text-transform: uppercase;
